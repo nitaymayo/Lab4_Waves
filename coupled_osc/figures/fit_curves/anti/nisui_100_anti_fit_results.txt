@@ -1,0 +1,6 @@
+--- Fit Results ---
+Damping (gamma): 0.2786 ± 0.0002
+Angular freq 1 (w1): 7.5673 ± 0.0032
+Angular freq 2 (w2): 7.5756 ± 0.0002
+Amplitude A: 6.9841 ± 0.0400
+Amplitude B: 101.5519 ± 0.0615
