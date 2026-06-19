@@ -4,3 +4,5 @@ Angular freq 1 (w1): 1.2887 ± 0.0696
 Angular freq 2 (w2): 7.5627 ± 0.0010
 Amplitude A: 2.9663 ± 0.4211
 Amplitude B: 212.6013 ± 0.9227
+Reduced Chi-Squared: 14.8871
+Std Dev of Residuals: 3.8584 clicks
